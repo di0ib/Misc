@@ -22,7 +22,7 @@ Gerber: Six Pack.zip
     Panelized PCBs: 1
 
 
-Gerber files released under https://creativecommons.org/licenses/by-nc-sa/4.0/
+Files released under https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 

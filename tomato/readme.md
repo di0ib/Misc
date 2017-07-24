@@ -11,6 +11,8 @@ http://www.40percent.club/2017/07/tomato-in-gherkin.html
 
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 
+![Tomato Schematic](schematic.png)
+
 EasyEDA ordering info:
 
 PCB

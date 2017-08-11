@@ -8,7 +8,7 @@ EasyEDA ordering info:
 
 PCB
 
-![splitplate](splitplate.png)
+![splitplate](plate.png)
 
 Gerber: splitplate.zip
 
@@ -24,7 +24,7 @@ Gerber: splitplate.zip
 
 	
 	
-![splitbottom](splitbottom.png)
+![splitbottom](bottom.png)
 
 Gerber: splitbottom.zip
 

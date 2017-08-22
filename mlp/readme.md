@@ -26,7 +26,7 @@ Gerber: mlp1_1.zip
 
 middle
 
-![mlp middle](mlp middle.png)
+![mlp middle](mlp%20middle.png)
 
 Gerber: mlp middle.zip
 

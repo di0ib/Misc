@@ -24,6 +24,22 @@ Gerber: mlp1_1.zip
     Copper Weight: 1;
     Panelized PCBs: 1
 
+middle
+
+![mlp middle](mlp middle.png)
+
+Gerber: mlp middle.zip
+
+
+    233.4mm Max* 81.0mm Max;
+    Layers: 2;
+    PCB Thickness: 1.0mm;
+    PCB Qty.: 10;
+    PCB Color: White;
+    Surface Finish: HASL;
+    Copper Weight: 1;
+    Panelized PCBs: 1
+
 
 Files released under https://creativecommons.org/licenses/by-nc-sa/4.0/
 

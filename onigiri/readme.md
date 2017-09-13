@@ -1,6 +1,6 @@
 More info here:
 
-http://www.40percent.club/2017/08/onigiri
+http://www.40percent.club/2017/08/onigiri.html
 
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 

@@ -1,6 +1,10 @@
 More info here:
 
-http://www.40percent.club/2017/09/foobar1_1.html
+http://www.40percent.club/2017/09/foobar-11-with-plates.html
+
+http://www.40percent.club/2017/09/foobar-rgb-underglow.html
+
+http://www.40percent.club/2017/09/foobar-10.html
 
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 

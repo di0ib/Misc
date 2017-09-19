@@ -2,6 +2,14 @@ More info here:
 
 http://www.40percent.club/2017/09/25.html
 
+BOM (per side)
+
+    25 1n4148 diodes
+    25 MX compatible PCB mount switches
+    1 TRRS Jack Sparkfun PRT-12639
+    1 Pro Micro 5v
+    1 5.2mm SMT switch (RESET) https://lcsc.com/product-detail/Tactile-Switches_5-2mm-5-2mm_C92584.html
+
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 
 EasyEDA ordering info:

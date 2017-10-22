@@ -2,6 +2,13 @@ More info here:
 
 http://www.40percent.club/2017/10/unquadquad.html
 
+BOM
+
+    144 1n4148 diodes
+    144 MX compatible PCB mount switches
+    1 Arduino Micro (not Pro Micro)
+    2 17pin headers or 1 40pin machined pin wide socket
+
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 
 EasyEDA ordering info:

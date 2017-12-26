@@ -6,6 +6,21 @@ Firmware https://github.com/di0ib/StenoFW/blob/master/kolea.ino
 
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 
+BOM 
+
+    34 1n4148 diodes
+    34 MX compatible PCB mount switches
+    1 Teensy LC
+    2 14pin headers or 1 28pin machined pin wide socket
+    
+Optional for LEDs
+
+    34	LEDs compatible with your switches (3mm flangeless, 2x3x4 rectangular or 1.8mm)
+    34	Resistors for LEDs. Use online LED caculator to choose value
+    1	FDS6630A or DMN3018SSS-13 SOIC FET
+    1	100ohm resistor
+    1	100Kilo ohm resistor
+
 EasyEDA ordering info:
 
 PCB

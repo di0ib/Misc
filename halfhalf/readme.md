@@ -8,9 +8,9 @@ EasyEDA ordering info:
 
 Half Half
 
-![halfhalftop](halfhalf_top.png)
+![halfhalf](halfhalf.png)
 
-Gerber: halfhalf.rar
+Gerber: halfhalf.zip
 
     Layers:2 
     Dimension: 81mm*138mm  

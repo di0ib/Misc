@@ -1,6 +1,6 @@
 More info here:
 
-http://www.40percent.club/2018/07/halfhalf.html
+http://www.40percent.club/2018/07/half-n-half.html
 
 BOM (per side)
 

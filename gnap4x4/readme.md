@@ -2,6 +2,12 @@ More info here:
 
 http://www.40percent.club/2018/04/gnap-4x4.html
 
+BOM
+
+    1	Arduino Micro (not a Pro Micro)
+    47	1n4148 diodes
+    47	MX compatible PCB mount switches
+
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 
 EasyEDA ordering info:

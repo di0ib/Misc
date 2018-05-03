@@ -7,6 +7,7 @@ BOM
     1	Arduino Micro (not a Pro Micro)
     47	1n4148 diodes
     47	MX compatible PCB mount switches
+    1   2U PCB mount stabilizer
 
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 

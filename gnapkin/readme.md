@@ -1,6 +1,6 @@
 More info here:
 
-http://www.40percent.club/2018/06/gnapkin.html
+http://www.40percent.club/2018/05/gnapkin.html
 
 
 BOM (per side)

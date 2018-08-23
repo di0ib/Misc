@@ -8,7 +8,7 @@ EasyEDA ordering info:
 
 PCB
 
-![luddite_plate](luddite_plate.png)
+![luddite_plate](luddite plate.png)
 
 Gerber: luddite_plate.rar
 

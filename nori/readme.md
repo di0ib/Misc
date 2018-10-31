@@ -1,6 +1,6 @@
 More info here:
 
-http://www.40percent.club/2018/11/nori.html
+http://www.40percent.club/2018/10/nori.html
 
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 

@@ -19,8 +19,8 @@ Needed if you want LEDs
     48	LEDs
     48	Resistors for LEDs. Use online LED caculator to choose value
     1	FDS6630A or DMN3018SSS-13 SOIC FET
-    1	100ohm resistor
-    1	100Kilo ohm resistor
+    1	100ohm resistor (R17)
+    1	100Kilo ohm resistor (R18)
     
 Optional
 

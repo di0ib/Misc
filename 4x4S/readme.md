@@ -9,17 +9,22 @@ EasyEDA ordering info:
 PCB
 
 ![4x4sFront](4x4sFront.png)
+
 ![4x4sBack](4x4sBack.png)
 
 Gerber: 4x4S.rar
 
 
 Dimension:86mm*76mm
+
 PCB Qty:10
+
 PCB Thickness:1.6
-Impedance:no
+
 PCB Color:Green
+
 Surface Finish:HASL(with lead)
+
 Copper Weight:1 oz
 
 	

@@ -15,17 +15,12 @@ PCB
 Gerber: 4x4S.rar
 
 
-Dimension:86mm*76mm
-
-PCB Qty:10
-
-PCB Thickness:1.6
-
-PCB Color:Green
-
-Surface Finish:HASL(with lead)
-
-Copper Weight:1 oz
+    Dimension:86mm*76mm
+    PCB Qty:10
+    PCB Thickness:1.6
+    PCB Color:Green
+    Surface Finish:HASL(with lead)
+    Copper Weight:1 oz
 
 	
 	

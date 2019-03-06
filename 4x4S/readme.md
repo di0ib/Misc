@@ -1,6 +1,6 @@
 More info here:
 
-http://www.40percent.club/2019/03/4x4_ItsyBitsy.html
+https://www.40percent.club/2019/03/4x4-itsybitsy.html
 
 [How to order PCBs from gerber files](http://www.40percent.club/2017/03/ordering-pcb.html)
 
